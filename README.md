@@ -38,7 +38,7 @@ Sou Desenvolvedor Front-End Júnior atualmente trabalhando com as tecnologias Vu
 ## :mailbox_with_mail: Contato
   
 <div align='center'>
-  <a href="https://www.linkedin.com/in/felipe-soares-diniz" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" width="40" height="40"></a>
+  <a href="https://www.linkedin.com/in/felipe-soares-diniz" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
   <a href = "mailto:felipesoaresdiniz@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" target="_blank"width="40" height="40"></a>
  
 </div>
