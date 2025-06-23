@@ -42,10 +42,4 @@ Sou Desenvolvedor Front-End atualmente trabalhando com as tecnologias Vue.js, HT
   <a href = "mailto:felipesoaresdiniz@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" target="_blank"width="40" height="40"></a>
  
 </div>
-
-## :chart_with_upwards_trend: Minha Evolução
-  
-<div align='center'>
-<a height="150em" href="http://www.github.com/Spliterr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Spliterr&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
-</div>
  
