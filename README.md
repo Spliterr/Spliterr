@@ -1,6 +1,6 @@
 ## :man: Olá devs, sou o Felipe Diniz!!! 👋🏻
 
-Sou Desenvolvedor Front-End Júnior atualmente trabalhando com as tecnologias Vue.js, HTML5, CSS3, JavaScript, produzindo e melhorando sites e aplicações da Web, estou apto e interessado em aprender novos frameworks.
+Sou Desenvolvedor Front-End atualmente trabalhando com as tecnologias Vue.js, HTML5, CSS3, JavaScript, produzindo e melhorando sites e aplicações da Web, estou apto e interessado em aprender novos frameworks.
 
 
  <div>
